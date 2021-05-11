@@ -14,3 +14,6 @@ Use Case:
    4. Easy refund, Live tracking of payments.
 
    so above these are key benfits that you will get by implementing this project.  
+   
+   Here is the youtube link for detailed explanantion:
+   https://youtu.be/2g-L4c7uXRI
